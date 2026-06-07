@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "protocol-reverse-engineering": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "skillPath": "plugins/reverse-engineering/skills/protocol-reverse-engineering/SKILL.md",
+      "computedHash": "9937cd621efd79a150ee15df6b6532fd08688b09484989466845b692271dd7ac"
+    }
+  }
+}
